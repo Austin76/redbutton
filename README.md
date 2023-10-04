@@ -14,10 +14,10 @@ Congratulations! 🎉 You have been selected by your dream company to participat
 ### 🎯 Goals
 
 By the end of this lab you will be able to...
-- [ ] Debug an app using Android Studio
-- [ ] Understand Views and view hierarchies
-- [ ] Understand interaction through click listeners
-- [ ] Understand View type casting
+- [x] Debug an app using Android Studio
+- [x] Understand Views and view hierarchies
+- [x] Understand interaction through click listeners
+- [x] Understand View type casting
 
 ### Resources
 
